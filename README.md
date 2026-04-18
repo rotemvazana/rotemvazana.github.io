@@ -15,3 +15,9 @@ I also recently started learning Spanish, which has been a really fun new hobby 
 ### Contact
 Feel free to reach out:
 *Email:* rotem.vazana@weizmann.ac.il
+
+<style>
+  p {
+    font-size: 1.25rem; /* מגדיל את הטקסט של הפסקאות בלבד */
+  }
+</style>
