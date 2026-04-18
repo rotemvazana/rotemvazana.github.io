@@ -3,12 +3,12 @@
 ## About Me
 Hi there, I'm Rotem! 
 
-I'm an M.Sc. student at the Weizmann Institude in the ExCLS track. I'm currently rotating at [Prof. Tamar Geiger lab](https://www.weizmann.ac.il/mcb/TGeiger/home).
-I LOVE science, and particularly interested in clinical cancer research! 
+I'm an M.Sc. student at the Weizmann Institute of Science in the ExCLS track. I'm currently doing a rotation in [Prof. Tamar Geiger lab](https://www.weizmann.ac.il/mcb/TGeiger/home).
+I LOVE science, and I'm particularly interested in clinical cancer research! 
 
 
 ## Education
-**B.Sc. in biology, Tel Aviv University**
+**B.Sc. in Biology, Tel Aviv University**
 
 I began my degree during high school through the Odyssey program at TAU. As part of this program, I also studied first-year chemistry courses.
 
@@ -33,7 +33,7 @@ Feel free to reach out:
 ![Cancer research image](cancer-research-img.jpg)
 
 <style>
-  p {
+  p, li {
     font-size: 1.2rem; /* מגדיל את הטקסט של הפסקאות בלבד */
   }
 
