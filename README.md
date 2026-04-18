@@ -27,6 +27,8 @@ Feel free to reach out:
 
 ✉️**Email:** rotem.vazana@weizmann.ac.il
 
+![Cancer research image](cancer-research-img.jpg)
+
 <style>
   p {
     font-size: 1.2rem; /* מגדיל את הטקסט של הפסקאות בלבד */
