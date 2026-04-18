@@ -18,6 +18,6 @@ Feel free to reach out:
 
 <style>
   p {
-    font-size: 1.25rem; /* מגדיל את הטקסט של הפסקאות בלבד */
+    font-size: 1.2rem; /* מגדיל את הטקסט של הפסקאות בלבד */
   }
 </style>
