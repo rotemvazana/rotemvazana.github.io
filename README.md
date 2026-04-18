@@ -3,7 +3,7 @@
 ## About Me
 Hi there, I'm Rotem! 
 
-I'm an M.Sc. student at the Weizmann Institute of Science in the ExCLS track. I'm currently doing a rotation in [Prof. Tamar Geiger lab](https://www.weizmann.ac.il/mcb/TGeiger/home).
+I'm an M.Sc. student at the Weizmann Institute of Science in the ExCLS track. I'm currently doing a rotation in [Prof. Tamar Geiger's lab](https://www.weizmann.ac.il/mcb/TGeiger/home).
 I LOVE science, and I'm particularly interested in clinical cancer research! 
 
 
