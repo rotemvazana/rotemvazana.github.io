@@ -13,7 +13,7 @@ I did my degree during high school through the Odyssey program at TAU. As part o
 
 ## Research Experience
 * I conducted a lab project in [Prof. Dudu Burstein's lab](https://burstein-lab.github.io/), The Shmunis School of Biomedicine and Cancer Research, Faculty of Life Sciences, TAU.
-* I conducted an expanded lab project in Prof. [Yoni Haitin's lab](https://www.haitinlab.sites.tau.ac.il/), Department of Physiology and Pharmacology, Faculty of Medicine, TAU.
+* I conducted an expanded lab project in [Prof. Yoni Haitin's lab](https://www.haitinlab.sites.tau.ac.il/), Department of Physiology and Pharmacology, Faculty of Medicine, TAU.
 
 
 ## Hobbies
@@ -25,7 +25,7 @@ I also recently started learning Spanish, which has been a really fun new hobby 
 ### Contact
 Feel free to reach out:
 
-**Email:** rotem.vazana@weizmann.ac.il
+✉️**Email:** rotem.vazana@weizmann.ac.il
 
 <style>
   p {
