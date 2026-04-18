@@ -7,7 +7,7 @@ I'm a M.Sc. student at the weizmann institude in the ExCLS track. I'm currently 
 I LOVE science, and very intrested in clinical cancer research! 
 
 ## Education
-*B.Sc. in biology, Tel Aviv University*
+_B.Sc. in biology, Tel Aviv University_
 
 I did my degree during high school through the Odyssey program at TAU. As part of this program, I also studied first-year chemistry courses.
 
@@ -21,7 +21,7 @@ I also recently started learning Spanish, which has been a really fun new hobby 
 ### Contact
 Feel free to reach out:
 
-*Email:* rotem.vazana@weizmann.ac.il
+_Email:_ rotem.vazana@weizmann.ac.il
 
 <style>
   p {
