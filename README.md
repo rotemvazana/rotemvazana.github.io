@@ -1,4 +1,4 @@
-# Welcome To My GitHub Page
+# WELCOME TO MY GITHUB PAGE
 
 ## About Me
 Hi there, I'm Rotem! 
@@ -36,4 +36,11 @@ Feel free to reach out:
   p {
     font-size: 1.2rem; /* מגדיל את הטקסט של הפסקאות בלבד */
   }
+
+  h1 {
+    color: grey; /* משנה את הכותרת הראשית לאפור */
+  }
 </style>
+
+
+
